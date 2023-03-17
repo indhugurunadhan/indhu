@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mainflow>
+<Federalbank-2>
+<branch-name> </branch-name>
+<customer-name>Joe</customer-name>
+<customer-street>Monroe</customer-street>
+<customer-city>Madison</customer-city>
+</Federalbank-2>
+<Federalbank-2>
+<branch-name> </branch-name>
+<customer-name>kousi</customer-name>
+<customer-street>thoraipakkam</customer-street>
+<customer-city>Madison</customer-city>
+</Federalbank-2>
+</mainflow>
